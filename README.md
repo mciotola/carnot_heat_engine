@@ -37,7 +37,7 @@ Running the Program
 
   Then enter:
 
-    carnot_engine_v01-02.rb
+    ruby carnot_engine_v01-02.rb
   
   
 Adjusting Parameters
