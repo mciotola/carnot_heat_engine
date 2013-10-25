@@ -45,8 +45,10 @@ puts "\n\n"
   include Math  
   
   
-# Initialize simulation parameters. You can adjust them, as long as both temperatures are
-# positive. A decimal point must be added to tell Ruby to allow floating point calculations.
+# Initialize simulation parameters.
+ 
+  # You can adjust them, as long as both temperatures are positive. A decimal point 
+  # must be added to tell Ruby to allow floating point calculations.
 
   warmertemp = 400.0  # in K
   coolertemp = 100.0  # K
